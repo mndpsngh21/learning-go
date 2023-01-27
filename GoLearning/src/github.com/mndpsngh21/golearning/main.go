@@ -31,6 +31,12 @@ func main() {
 	OPs.FlowExamples()
 	breaker()
 	OPs.PointerExample()
+	breaker()
+	OPs.InterfaceOps()
+	breaker()
+	OPs.Routines()
+	breaker()
+	OPs.ChannelOps()
 }
 
 func breaker() {
